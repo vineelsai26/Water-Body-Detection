@@ -1,6 +1,5 @@
-Satellite Images
-Processed Images
-Model
-Cropped
-Dataset
-desktop.ini
+*.ini
+*.png
+*.jpg
+*.tif
+*.h5
